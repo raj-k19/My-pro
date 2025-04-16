@@ -1,2 +1,2 @@
 # My-pro
-This is my learing project
+This is my learing project.
